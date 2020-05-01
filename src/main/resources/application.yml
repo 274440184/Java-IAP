@@ -1,0 +1,9 @@
+order:
+  applepay:
+    api: https://buy.itunes.apple.com  正式环境
+    sandboxApi: https://sandbox.itunes.apple.com  沙盒环境
+    applePayNotifyUrl: 状态变化的地址
+    offerIdentifier: 订阅促销的促销ID
+    keyIdentifier: 标示用的是哪一个密钥，也就是密钥对应的id
+    keyIdentifierContent: 密钥内容
+    appBundleID: bundleId
